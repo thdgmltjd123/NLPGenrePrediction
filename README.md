@@ -21,4 +21,8 @@ imdb의 영화 리뷰 데이터
  
  Min_freq(1,2,3,4,5,10) Dropout(0.1,0.2,0.3) 사이에서 가장 val_loss가 낮은 모델 사용
 
+![image](https://user-images.githubusercontent.com/62729363/114295971-a0be1e80-9ae3-11eb-93bc-d77ba775f5e7.png)    
+
 ## Visualization
+
+![image](https://user-images.githubusercontent.com/62729363/114295992-c0eddd80-9ae3-11eb-871e-64f59ee33df8.png)      
